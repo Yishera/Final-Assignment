@@ -1,5 +1,4 @@
-# Final-Assignment
-This is my final assignment for ITEC
+
 # Final Assignment
 
 ## Laptop Recommendations for the Organization

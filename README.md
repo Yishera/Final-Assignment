@@ -15,7 +15,7 @@ The CFO initially chose the [Lenovo - Ideapad 1](https://www.bestbuy.com/site/le
 - SSD: 128GB
 - Price: $299.99
 
-![CFO's Laptop](CFO's Laptop Image URL)
+![CFO's Laptop](LenovoIdeapad.jpg)
 
 ### Recommendation 1
 

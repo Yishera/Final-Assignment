@@ -26,7 +26,7 @@ The first alternative is [Mike's Lenovo IdeaPad 3i Laptop](https://www.amazon.co
 - SSD: 512GB
 - Price: $319.99
 
-![Mike's Laptop](Mike's Laptop Image URL)
+![Mike's Laptop](LenovoMike's.png)
 
 This laptop offers several improvements over the CFO's choice:
 

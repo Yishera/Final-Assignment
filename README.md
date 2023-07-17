@@ -43,7 +43,7 @@ The second alternative, [HP Pavilion Aero Laptop - 13z-be200](https://www.hp.com
 - SSD: 256GB
 - Price: $519.99
 
-![Your Laptop](Your Laptop Image URL)
+![Your Laptop](HPAero.jpg)
 
 Compared to the CFO's choice, my recommendation provides:
 
@@ -58,7 +58,3 @@ Taking into account both performance and cost, I recommend the Lenovo IdeaPad 3i
 
 ---
 
-This recommendation has been made available on GitHub in a repository named "Recommendation" and is published using GitHub Pages. We utilized a Jekyll theme for a more professional presentation.
-
-[Link to GitHub Repository](GitHub Repository Link)
-[Link to GitHub Pages Site](GitHub Pages Site Link)
